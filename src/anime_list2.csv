@@ -1,50 +1,50 @@
-title,score,ranking,genres
-Death Note,8.68,Ranked 48,Mystery
-Fullmetal Alchemist: Brotherhood,9.25,Ranked 1,Action
-Shokugeki no Souma,8.55,Ranked 82,Ecchi
-Fate/stay night: Unlimited Blade Works,8.35,Ranked 191,Action
-Shigatsu wa Kimi no Uso,8.89,Ranked 22,Drama
-Kobayashi-san Chi no Maid Dragon,8.20,Ranked 313,Slice of Life
-Boku no Hero Academia,8.43,Ranked 145,Action
-Tengen Toppa Gurren Lagann,8.74,Ranked 41,Action
-Boku dake ga Inai Machi,8.57,Ranked 70,Mystery
-Kyoukai no Kanata,7.87,Ranked 754,Slice of Life
-New Game!,7.75,Ranked 986,Slice of Life
-No Game No Life,8.41,Ranked 156,Game
-Houseki no Kuni (TV),8.50,Ranked 101,Action
-Kiznaiver,7.60,Ranked 1333,Sci-Fi
-Nanatsu no Taizai,8.30,Ranked 238,Action
-Mahoutsukai no Yome,8.48,Ranked 111,Fantasy
-Kill la Kill,8.19,Ranked 324,Action
-Shingeki no Kyojin,8.50,Ranked 104,Action
-Akame ga Kill!,7.80,Ranked 858,Action
-One Punch Man,8.74,Ranked 39,Action
-Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7.83,Ranked 817,Action
-3-gatsu no Lion,8.40,Ranked 159,Game
-Nejimaki Seirei Senki: Tenkyou no Alderamin,7.90,Ranked 692,Action
-Hibike! Euphonium,8.02,Ranked 528,Drama
-Hai to Gensou no Grimgar,7.83,Ranked 819,Action
-Made in Abyss,8.91,Ranked 20,Sci-Fi
-Knight's & Magic,7.32,Ranked 2320,Action
-Little Witch Academia (TV),8.15,Ranked 370,Adventure
-Gate: Jieitai Kanochi nite,7.90,Ranked 683,Action
-Koutetsujou no Kabaneri,7.32,Ranked 2321,Action
-Panty & Stocking with Garterbelt,7.78,Ranked 916,Action
-Rokka no Yuusha,7.54,Ranked 1510,Action
-Utawarerumono: Itsuwari no Kamen,7.34,Ranked 2251,Action
-Re:Creators,7.69,Ranked 1119,Action
-Toaru Kagaku no Railgun,7.83,Ranked 824,Action
-Ookami to Koushinryou,8.34,Ranked 204,Adventure
-Youjo Senki,8.15,Ranked 375,Military
-Kyoukai no Rinne (TV),6.97,Ranked 3654,Comedy
-Isekai Shokudou,7.39,Ranked 2044,Mystery
-Princess Principal,7.72,Ranked 1051,Action
-Sakura Quest,7.48,Ranked 1679,Slice of Life
-Akatsuki no Yona,8.19,Ranked 320,Action
-Hitsugi no Chaika,7.42,Ranked 1912,"Action,"
-Re:Zero kara Hajimeru Isekai Seikatsu,8.45,Ranked 132,Psychological
-Kono Subarashii Sekai ni Shukufuku wo!,8.15,Ranked 69,Adventure
-Kino no Tabi: The Beautiful World - The Animated Series,7.61,Ranked 1302,Action
-Musaigen no Phantom World,7.00,Ranked 3546,Action
-Rokudenashi Majutsu Koushi to Akashic Records,7.36,Ranked 2187,Action
-Drifters,8.06,Ranked 469,Action
+title,score,ranking,genres,price,desconto
+Death Note,8.68,Ranked 48,Mystery,43.80,10.00
+Fullmetal Alchemist: Brotherhood,9.25,Ranked 1,Action,31.00,10.00
+Shokugeki no Souma,8.55,Ranked 82,Ecchi,19.90,5.00
+Fate/stay night: Unlimited Blade Works,8.35,Ranked 191,Action,13.90,8.00
+Shigatsu wa Kimi no Uso,8.89,Ranked 22,Drama,29.90,5.00
+Kobayashi-san Chi no Maid Dragon,8.20,Ranked 313,Slice of Life,48.76,20.00
+Boku no Hero Academia,8.43,Ranked 145,Action,28.82,10.00
+Tengen Toppa Gurren Lagann,8.74,Ranked 41,Action,23.00,3.00
+Boku dake ga Inai Machi,8.57,Ranked 70,Mystery,28.82,10.00
+Kyoukai no Kanata,7.87,Ranked 754,Slice of Life,19.90,10.00
+New Game!,7.75,Ranked 986,Slice of Life,161.90,10.00
+No Game No Life,8.41,Ranked 156,Game,68.14,20.00
+Houseki no Kuni (TV),8.50,Ranked 101,Action,25.90,3.00
+Kiznaiver,7.60,Ranked 1333,Sci-Fi,19.90,8.00
+Nanatsu no Taizai,8.30,Ranked 238,Action,19.00,10.00
+Mahoutsukai no Yome,8.48,Ranked 111,Fantasy,15.69,10.00
+Kill la Kill,8.19,Ranked 324,Action,26.47,10.00
+Shingeki no Kyojin,8.50,Ranked 104,Action,27.90,10.00
+Akame ga Kill!,7.80,Ranked 858,Action,135.46,8.00
+One Punch Man,8.74,Ranked 39,Action,118.00,20.00
+Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,7.83,Ranked 817,Action,65.00,20.00
+3-gatsu no Lion,8.40,Ranked 159,Game,15.55,5.00
+Nejimaki Seirei Senki: Tenkyou no Alderamin,7.90,Ranked 692,Action,28.82,5.00
+Hibike! Euphonium,8.02,Ranked 528,Drama,19.90,5.00
+Hai to Gensou no Grimgar,7.83,Ranked 819,Action,105.90,5.00
+Made in Abyss,8.91,Ranked 20,Sci-Fi,72.97,5.00
+Knight's & Magic,7.32,Ranked 2320,Action,69.80,5.00
+Little Witch Academia (TV),8.15,Ranked 370,Adventure,19.00,5.00
+Gate: Jieitai Kanochi nite,7.90,Ranked 683,Action,80.91,5.00
+Koutetsujou no Kabaneri,7.32,Ranked 2321,Action,42.90,5.00
+Panty & Stocking with Garterbelt,7.78,Ranked 916,Action,51.30,5.00
+Rokka no Yuusha,7.54,Ranked 1510,Action,19.00,10.00
+Utawarerumono: Itsuwari no Kamen,7.34,Ranked 2251,Action,36.90,10.00
+Re:Creators,7.69,Ranked 1119,Action,22.90,10.00
+Toaru Kagaku no Railgun,7.83,Ranked 824,Action,112.90,5.00
+Ookami to Koushinryou,8.34,Ranked 204,Adventure,44.90,5.00
+Youjo Senki,8.15,Ranked 375,Military,66.46,5.00
+Kyoukai no Rinne (TV),6.97,Ranked 3654,Comedy,23.45,5.00
+Isekai Shokudou,7.39,Ranked 2044,Mystery,19.00,5.00
+Princess Principal,7.72,Ranked 1051,Action,30.90,5.00
+Sakura Quest,7.48,Ranked 1679,44.90,19.00,5.00
+Akatsuki no Yona,8.19,Ranked 320,Action,44.27,5.00
+Hitsugi no Chaika,7.42,Ranked 1912,Action,35.71,5.00
+Re:Zero kara Hajimeru Isekai Seikatsu,8.45,Ranked 132,Psychological,26.90,5.00
+Kono Subarashii Sekai ni Shukufuku wo!,8.15,Ranked 69,Adventure,13.60,5.00
+Kino no Tabi: The Beautiful World - The Animated Series,7.61,Ranked 1302,Action,51.04,5.00
+Musaigen no Phantom World,7.00,Ranked 3546,Action,55.90,5.00
+Rokudenashi Majutsu Koushi to Akashic Records,7.36,Ranked 2187,Action,49.00,5.00
+Drifters,8.06,Ranked 469,Action,63.00,5.00
